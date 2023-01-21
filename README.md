@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shriramkhaire2015
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, SQL, Tablue
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python, SQL, Tablue, R
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me shriramkhaire2015@gmail.com
 
 <!---
 shriramkhaire2015/shriramkhaire2015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
